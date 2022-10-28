@@ -1,3 +1,4 @@
+
 *{
     margin: 0px;
     padding: 0px;
@@ -47,8 +48,7 @@ body{
 .card{
     
     display: flex;
-    margin-bottom: 10%;
-    margin-top: 15%;
+    margin-top: 10%;
     margin-left: 25%;
     margin-right: 25%;
     max-width: 100%;    
