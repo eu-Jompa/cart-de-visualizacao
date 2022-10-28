@@ -92,7 +92,7 @@ body{
     font-family: var(--secundary-font);
     margin-bottom: 25px;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 15px;
 }
 .conteudo p{
     font-family: var(--main-font);
